@@ -1,6 +1,10 @@
 # CGLabs-dev
 **Mission:** Build portable, practical PoCs for L2/L3/L4 observability — shadow sampling, TPROXY, eBPF — with clean OSS facades and gated commercial modules.
 
+> **TL;DR:** OSS packages live under `@cglabs-dev/*`; private/commercial live under `@cglabs/*`.
+`@cglabs-dev/core` is a public orchestrator.
+Providers: `@cglabs/core-pro` (private) or `@cglabs-dev/core-dev` (public).
+
 ---
 ## 📦 Repo model
 
